@@ -1,0 +1,7 @@
+{
+  "name": "fullstack-typescript-mern-todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Arpan Balpande <arpan.balpande22@gmail.com>",
+  "license": "MIT"
+}
